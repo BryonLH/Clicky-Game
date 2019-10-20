@@ -1,17 +1,62 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Antman",
+    "image": "./images/antman.png"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+    "name": "Black Panther",
+    "image": "./images/blackpanther.png"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626"
+    "name": "Blackwidow",
+    "image": "./images/blackwidow.png"
+  },
+  {
+    "id": 4,
+    "name": "Captain Marvel",
+    "image": "./images/capmarvel.png"
+  },
+  {
+    "id": 5,
+    "name": "Captain America",
+    "image": "./images/capamerica.png"
+  },
+  {
+    "id": 6,
+    "name": "Dr Strange",
+    "image": "./images/drstrange.png"
+  },
+  {
+    "id": 7,
+    "name": "Falcon",
+    "image": "./images/falcon.png"
+  },
+  {
+    "id": 8,
+    "name": "Hawkeye",
+    "image": "./images/hawkeye.png"
+  },
+  {
+    "id": 9,
+    "name": "Hulk",
+    "image": "./images/hulk.png"
+  },
+  {
+    "id": 10,
+    "name": "Ironman",
+    "image": "./images/ironman.png"
+  },
+  {
+    "id": 11,
+    "name": "Spderman",
+    "image": "./images/spiderman.png"
+  },
+  {
+    "id": 12,
+    "name": "Thor",
+    "image": "./images/thor.png"
   }
 ]
