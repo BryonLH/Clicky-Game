@@ -15,7 +15,7 @@
     "image": "./images/blackwidow.png"
   },
   {
-    "id": 4,
+    "id": 7,
     "name": "Captain Marvel",
     "image": "./images/capmarvel.png"
   },
@@ -30,7 +30,7 @@
     "image": "./images/drstrange.png"
   },
   {
-    "id": 7,
+    "id": 4,
     "name": "Falcon",
     "image": "./images/falcon.png"
   },
@@ -40,7 +40,7 @@
     "image": "./images/hawkeye.png"
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "Hulk",
     "image": "./images/hulk.png"
   },
@@ -50,7 +50,7 @@
     "image": "./images/ironman.png"
   },
   {
-    "id": 11,
+    "id": 9,
     "name": "Spderman",
     "image": "./images/spiderman.png"
   },

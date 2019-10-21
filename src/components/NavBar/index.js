@@ -1,18 +1,18 @@
 import React from "react";
 import Navbar from 'react-bootstrap/Navbar'
+import logo from "./Avengers-clicky-game-logo.png"
 import "./style.css";
-
 
 
 function NavBar(props) {
   return (
     <Navbar>
-      <Navbar.Brand href="#home">Avengers Clicky Game | {props.message}</Navbar.Brand>
+      <Navbar.Brand><img src={logo} className="logo" alt="Avengers Clicky Game"></img></Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse className="justify-content-end">
         <Navbar.Text>
-          Score: <span className="score">{props.score}</span>
-          High Score: <span className="high-score">{props.highscore}</span>
+          <div className="score">Current Score: {props.score}</div>
+          <div className="score">High Score: {props.highscore}</div>
         </Navbar.Text>
       </Navbar.Collapse>
     </Navbar>
